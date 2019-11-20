@@ -1,4 +1,4 @@
-Códigos Generales Proin - Aplicables a toda iniciativa, herramienta o actividad.
+Códigos Generales Devs&Ops Los Lagos - Aplicables a toda iniciativa, herramienta o actividad.
 ============
 
 Este manual de conducta fue diseñado para entregar una estructura básica, con el fin de mantener un orden frente a la diversidad de temas, opiniones y personas que formen parte de esta gran comunidad.
